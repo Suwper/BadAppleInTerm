@@ -1,7 +1,8 @@
 # BadAppleInTerm
 
-## This project plays the Bad Apple video in ASCII format inside of your terminal/console
----------------
+## What is this project?
+### This project plays the Bad Apple video in ASCII format inside of your terminal/console
+
 ## Installation:
 
 ### First install all the dependencies:
