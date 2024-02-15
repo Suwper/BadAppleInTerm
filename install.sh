@@ -44,6 +44,9 @@ then
 
 	mkdir frames_as_txt
 
+ 	chmod +x image-to-ascii
+  	chmod +x ascii-player
+   
 	./image-to-ascii -i frames -o frames_as_txt
 
 	rm -rf temp/ frames/
