@@ -6,7 +6,7 @@
 
 ### First install all the dependencies:
 - ffmpeg
-- mplayer (if sound is wanted)
+- mplayer
 - make
 ### Then run these commands:
 ```bash
