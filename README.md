@@ -20,7 +20,7 @@
 ### To run the "video" execute the 'play' executable as follows:
 
 ```bash
-    ./play
+    ./play.sh
 ```
 
 ## Notes
